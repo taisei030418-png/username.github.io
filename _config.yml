@@ -1,0 +1,10 @@
+title: Taisei Gunji
+description: Mathematics / Notes / Records
+theme: minimal-mistakes-jekyll
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+mathjax: true
